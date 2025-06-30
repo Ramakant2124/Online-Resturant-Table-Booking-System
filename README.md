@@ -1,6 +1,6 @@
 # Online-Resturant-Table-Booking-System
 Hello Developers!
-This is plywood stock checking & Billing system project built in Python Tkinter. The project has been built by taking reference from other Project. 
+This is Online Resturant Table Booking System project built in Python Tkinter. The project has been built by taking reference from other Project. 
 
 **Only For Education Purpose**  
 
