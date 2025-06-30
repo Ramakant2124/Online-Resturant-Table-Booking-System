@@ -2,6 +2,8 @@
 Hello Developers!
 This is plywood stock checking & Billing system project built in Python Tkinter. The project has been built by taking reference from other Project. 
 
+**Only For Education Purpose**  
+
 ## Introduction of project :
 An online restaurant table booking system is a digital platform that allows customers to reserve tables at a restaurant remotely, using the internet.  This system streamlines the reservation process for both customers and restaurants, offering convenience and efficiency. Customers can book tables online at any time, give feedback to the resturant and also see the menu for dishes.
 
@@ -26,6 +28,3 @@ ________________________________________________________________________________
 <ins>Admin: </ins>
 ![image](https://github.com/user-attachments/assets/4181bd93-5d12-4711-8cb3-20814e910f32)
 
-
-    
-**Only For Education Purpose**
