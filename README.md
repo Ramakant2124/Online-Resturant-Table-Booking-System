@@ -14,28 +14,30 @@ Python - https://www.python.org/ftp/python/3.13.3/python-3.13.3-amd64.exe
 
 ### step 2 : Install Visual Studio(Recommended)
 https://code.visualstudio.com/download
+### step 3 : Create a  CD Cammaond open to project
+>cd Resturant_Project
 
-### step 3 : Create a virtual environment(env)
+### step 4 : Create a virtual environment(env)
 >python3 -m venv env
 
-### step 4 : activate the Virtual Environment
+### step 5 : activate the Virtual Environment
 >env\scripts\activate
 
 > Set-ExecutionPolicy Unrestricted -Scope Process
 
 >env\scripts\activate
 
-### step 5 : Install all the Packages or Modules inside requirements.txt file
+### step 6 : Install all the Packages or Modules inside requirements.txt file
 >pip install -r requirements.txt
 
-### step 6 : Now make Migrations and Migrate for saving the changes:
+### step 7 : Now make Migrations and Migrate for saving the changes:
 >python manage.py migrate
 >python manage.py makemigrations
 
-### step 7 : Now you have to create superuser for Admin Credentials:
+### step 8 : Now you have to create superuser for Admin Credentials:
 >python manage.py createsuperuser
 
-### step 8 : Now Finally you can run your web application:
+### step 9 : Now Finally you can run your web application:
 >python manage.py runserver
 
 ## SNAPSHOTS :
