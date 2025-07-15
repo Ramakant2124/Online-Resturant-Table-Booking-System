@@ -1,5 +1,6 @@
 # Online-Resturant-Table-Booking-System
 Hello Developers!
+
 This is Online Resturant Table Booking System project built in Python Django Framework and HTML/CSS & Javascript. The project has been built by taking reference from other Project. 
 
 **Only For Education Purpose**  
@@ -8,7 +9,6 @@ This is Online Resturant Table Booking System project built in Python Django Fra
 An online restaurant table booking system is a digital platform that allows customers to reserve tables at a restaurant remotely, using the internet.  This system streamlines the reservation process for both customers and restaurants, offering convenience and efficiency. Customers can book tables online at any time, give feedback to the resturant and also see the menu for dishes.
 
 ## Project Setup :  
-
 ### step 1 : Install Python
 Python - https://www.python.org/ftp/python/3.13.3/python-3.13.3-amd64.exe
 
