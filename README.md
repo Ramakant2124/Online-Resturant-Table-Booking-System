@@ -32,6 +32,7 @@ https://code.visualstudio.com/download
 
 ### step 7 : Now make Migrations and Migrate for saving the changes:
 >python manage.py migrate
+
 >python manage.py makemigrations
 
 ### step 8 : Now you have to create superuser for Admin Credentials:
